@@ -16,9 +16,9 @@ An Android memory card-matching game developed in Java, with smooth animations a
 
 ## 🌐 Google Sites Projects
 
-- [🎤 Interview on Global Warming](https://sites.google.com/view/how-to-alleviate-globalwarming/interview?authuser=1)  
+- [🎤 Global Warming](https://sites.google.com/view/how-to-alleviate-globalwarming/interview?authuser=1)  
 - [🏠RA. 10173 and RA. 11469](https://sites.google.com/view/group7hahahahello/home?authuser=1)  
-- [💻 Watermelon Soft - FAQ Page](https://sites.google.com/view/watermelon-soft-torena/faq?authuser=1)  
+- [💻 Watermelon Soft ](https://sites.google.com/view/watermelon-soft-torena/faq?authuser=1)  
 
 These projects demonstrate communication, collaboration, and technical content creation across a variety of topics.
 
